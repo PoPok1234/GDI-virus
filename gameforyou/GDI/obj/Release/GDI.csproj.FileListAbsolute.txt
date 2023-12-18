@@ -1,0 +1,10 @@
+C:\Users\popok\OneDrive\Рабочий стол\коды сШарп\gameforyou\GDI\bin\Release\GDI.exe.config
+C:\Users\popok\OneDrive\Рабочий стол\коды сШарп\gameforyou\GDI\bin\Release\GDI.exe
+C:\Users\popok\OneDrive\Рабочий стол\коды сШарп\gameforyou\GDI\bin\Release\GDI.pdb
+C:\Users\popok\OneDrive\Рабочий стол\коды сШарп\gameforyou\GDI\obj\Release\GDI.csproj.AssemblyReference.cache
+C:\Users\popok\OneDrive\Рабочий стол\коды сШарп\gameforyou\GDI\obj\Release\GDI.Form1.resources
+C:\Users\popok\OneDrive\Рабочий стол\коды сШарп\gameforyou\GDI\obj\Release\GDI.Properties.Resources.resources
+C:\Users\popok\OneDrive\Рабочий стол\коды сШарп\gameforyou\GDI\obj\Release\GDI.csproj.GenerateResource.cache
+C:\Users\popok\OneDrive\Рабочий стол\коды сШарп\gameforyou\GDI\obj\Release\GDI.csproj.CoreCompileInputs.cache
+C:\Users\popok\OneDrive\Рабочий стол\коды сШарп\gameforyou\GDI\obj\Release\GDI.exe
+C:\Users\popok\OneDrive\Рабочий стол\коды сШарп\gameforyou\GDI\obj\Release\GDI.pdb
